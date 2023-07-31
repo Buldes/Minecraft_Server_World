@@ -1552,12 +1552,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2023-07-31 13:03:27 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/netherite_sword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
@@ -1576,27 +1570,63 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2023-07-31 12:56:02 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lectern": {
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
-      "has_book": "2023-07-31 13:03:27 +0200"
+      "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2023-07-31 12:40:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2023-07-31 12:40:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2023-07-31 12:47:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-07-31 12:56:02 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2023-07-31 13:03:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2023-07-31 13:03:27 +0200"
     },
     "done": true
   },
@@ -1612,33 +1642,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_deepslate_redstone_ore": "2023-07-31 12:40:26 +0200"
+      "has_slime_ball": "2023-07-31 14:04:51 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
+      "has_slime_ball": "2023-07-31 14:04:51 +0200"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "crafting_table": "2023-07-31 12:47:47 +0200"
+      "has_glowstone_dust": "2023-07-31 14:03:04 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lodestone": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
+      "has_glowstone_dust": "2023-07-31 14:03:04 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/combat/netherite_helmet_smithing": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_netherite_ingot": "2023-07-31 12:40:12 +0200"
+      "has_slime_ball": "2023-07-31 14:04:51 +0200"
     },
     "done": true
   },
