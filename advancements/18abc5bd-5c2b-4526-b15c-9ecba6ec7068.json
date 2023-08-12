@@ -10,13 +10,19 @@
       "minecraft:deep_ocean": "2023-08-07 16:29:44 +0200",
       "minecraft:cherry_grove": "2023-08-07 17:57:07 +0200",
       "minecraft:birch_forest": "2023-08-07 16:23:03 +0200",
+      "minecraft:bamboo_jungle": "2023-08-12 13:06:02 +0200",
       "minecraft:beach": "2023-08-07 16:19:04 +0200",
       "minecraft:dark_forest": "2023-08-07 16:19:01 +0200",
+      "minecraft:sparse_jungle": "2023-08-12 13:07:50 +0200",
       "minecraft:river": "2023-08-07 16:23:57 +0200",
+      "minecraft:lukewarm_ocean": "2023-08-12 13:06:16 +0200",
       "minecraft:forest": "2023-08-07 16:27:45 +0200",
+      "minecraft:desert": "2023-08-12 13:15:04 +0200",
       "minecraft:ocean": "2023-08-07 15:59:43 +0200",
+      "minecraft:jungle": "2023-08-12 13:06:53 +0200",
       "minecraft:old_growth_birch_forest": "2023-08-07 16:44:59 +0200",
       "minecraft:meadow": "2023-08-07 19:24:58 +0200",
+      "minecraft:savanna": "2023-08-12 13:10:52 +0200",
       "minecraft:plains": "2023-08-07 17:56:31 +0200"
     },
     "done": false
@@ -123,7 +129,8 @@
       "bread": "2023-08-07 19:32:09 +0200",
       "rotten_flesh": "2023-08-07 16:32:34 +0200",
       "glow_berries": "2023-08-07 19:44:29 +0200",
-      "melon_slice": "2023-08-07 17:32:39 +0200"
+      "melon_slice": "2023-08-07 17:32:39 +0200",
+      "cod": "2023-08-12 12:58:38 +0200"
     },
     "done": false
   },
@@ -200,6 +207,7 @@
       "minecraft:spider": "2023-08-07 16:54:53 +0200",
       "minecraft:creeper": "2023-08-07 17:49:21 +0200",
       "minecraft:evoker": "2023-08-07 17:08:05 +0200",
+      "minecraft:husk": "2023-08-12 13:26:01 +0200",
       "minecraft:zombie": "2023-08-07 16:32:28 +0200"
     },
     "done": false
@@ -1545,6 +1553,108 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2023-08-07 19:59:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2023-08-12 12:57:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2023-08-12 12:57:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2023-08-12 12:57:57 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2023-08-12 12:59:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2023-08-12 13:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2023-08-12 13:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2023-08-12 13:02:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2023-08-12 13:08:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2023-08-12 13:08:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2023-08-12 13:08:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2023-08-12 13:33:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2023-08-12 13:33:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2023-08-12 13:33:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2023-08-12 13:20:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-08-12 13:20:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-08-12 13:32:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-08-12 13:24:59 +0200"
     },
     "done": true
   },
