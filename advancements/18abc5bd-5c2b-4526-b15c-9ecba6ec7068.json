@@ -126,6 +126,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2023-08-07 16:20:51 +0200",
+      "apple": "2023-08-17 15:53:01 +0200",
       "bread": "2023-08-07 19:32:09 +0200",
       "rotten_flesh": "2023-08-07 16:32:34 +0200",
       "glow_berries": "2023-08-07 19:44:29 +0200",
@@ -1616,6 +1617,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-08-12 13:20:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "tropical_fish_bucket": "2023-08-12 13:20:13 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2023-08-12 13:24:59 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2023-08-12 13:32:33 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2023-08-12 13:33:25 +0200"
@@ -1634,27 +1659,57 @@
     },
     "done": true
   },
-  "minecraft:husbandry/tactical_fishing": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "tropical_fish_bucket": "2023-08-12 13:20:13 +0200"
+      "has_leather": "2023-08-17 16:10:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_water_bucket": "2023-08-12 13:20:10 +0200"
+      "has_rail": "2023-08-17 15:44:07 +0200"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
-      "wheat": "2023-08-12 13:32:33 +0200"
+      "has_leather": "2023-08-17 16:10:49 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/misc/mojang_banner_pattern": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_enchanted_golden_apple": "2023-08-12 13:24:59 +0200"
+      "has_leather": "2023-08-17 16:10:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2023-08-17 16:10:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2023-08-17 16:10:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2023-08-17 16:10:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2023-08-17 15:44:07 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2023-08-17 15:44:07 +0200"
     },
     "done": true
   },

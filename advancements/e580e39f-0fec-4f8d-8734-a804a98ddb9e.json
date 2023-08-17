@@ -1767,6 +1767,7 @@
       "minecraft:wither_skeleton": "2023-08-08 08:42:35 +0200",
       "minecraft:husk": "2023-08-07 17:29:44 +0200",
       "minecraft:ender_dragon": "2023-08-16 14:53:51 +0200",
+      "minecraft:shulker": "2023-08-17 13:30:31 +0200",
       "minecraft:cave_spider": "2023-08-16 13:48:50 +0200",
       "minecraft:piglin": "2023-08-09 18:03:45 +0200",
       "minecraft:enderman": "2023-08-08 08:13:40 +0200",
@@ -3677,6 +3678,72 @@
   "minecraft:recipes/misc/popped_chorus_fruit": {
     "criteria": {
       "has_chorus_fruit": "2023-08-16 15:03:35 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2023-08-17 13:28:34 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2023-08-17 13:28:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2023-08-17 13:29:51 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2023-08-17 13:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2023-08-17 13:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-08-17 13:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-08-17 13:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2023-08-17 13:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2023-08-17 13:40:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-08-17 16:02:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-08-17 16:02:03 +0200"
     },
     "done": true
   },
