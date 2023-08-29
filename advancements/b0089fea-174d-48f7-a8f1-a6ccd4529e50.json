@@ -293,6 +293,7 @@
       "minecraft:pillager": "2023-08-10 18:23:06 +0200",
       "minecraft:blaze": "2023-08-16 16:53:19 +0200",
       "minecraft:skeleton": "2023-08-07 17:07:19 +0200",
+      "minecraft:ravager": "2023-08-29 20:44:14 +0200",
       "minecraft:ghast": "2023-08-10 15:57:16 +0200",
       "minecraft:vindicator": "2023-08-07 16:54:48 +0200",
       "minecraft:magma_cube": "2023-08-10 16:11:46 +0200",
@@ -4383,6 +4384,18 @@
   "minecraft:adventure/sniper_duel": {
     "criteria": {
       "killed_skeleton": "2023-08-28 12:47:18 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2023-08-29 20:43:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2023-08-29 20:51:36 +0200"
     },
     "done": true
   },
